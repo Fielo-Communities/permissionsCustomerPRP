@@ -5,6 +5,11 @@
 	[
 		{
 			"type":"package",
+			"version":"2.56.6",
+			"name":"FieloPLT"
+		},	
+		{
+			"type":"package",
 			"version":"1.36",
 			"name":"FieloPRP"
 		}		
